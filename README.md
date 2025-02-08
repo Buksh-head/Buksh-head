@@ -1,5 +1,5 @@
 #  
-# <img src="https://media.licdn.com/dms/image/v2/D5603AQGCTxKSw-NiDA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731330685891?e=1744243200&v=beta&t=8rsjc0oTOadPaFR6-Uv5VUVmRjRQeT1CjGGxAFzyNck" width="100" height="100" /> Hi, I'm Adnaan Buksh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30">
+# Hi, I'm Adnaan Buksh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30">
 
 
 
@@ -75,6 +75,7 @@
 
 
 <!--## Hi there 👋
+<img src="https://media.licdn.com/dms/image/v2/D5603AQGCTxKSw-NiDA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731330685891?e=1744243200&v=beta&t=8rsjc0oTOadPaFR6-Uv5VUVmRjRQeT1CjGGxAFzyNck" width="100" height="100" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
