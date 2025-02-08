@@ -5,8 +5,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adnaanbuksh&color=blue&style=flat-square)
 
-***<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> About Me***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## ***<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> About Me***
+
 
 
 
@@ -17,8 +17,7 @@
 🏊 **Swimmer & Wrestler**  
 
 ---
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech Stack***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech Stack***
 
 <table>
 <tr>
@@ -52,8 +51,7 @@
 
 ---
 
-***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## ***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
 
 🔹 [**E-paper Portable Digital Watch**](https://adnaanbuksh.netlify.app/#projects) – Compact and energy-efficient digital watch using e-paper technology.  
 🔹 [**Remote-Controlled Microscope (RCM) System**](https://adnaanbuksh.netlify.app/#projects) – A remotely operated microscope system for precise imaging.  
@@ -64,7 +62,6 @@
 
 
 ## 📫 Let's Connect
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://adnaanbuksh.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnaanbuksh)
@@ -78,7 +75,7 @@
 
 
 <!--## Hi there 👋
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
