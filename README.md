@@ -1,5 +1,5 @@
 #  
-# <img src="https://media.licdn.com/dms/image/v2/D5603AQGCTxKSw-NiDA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731330685891?e=1744243200&v=beta&t=8rsjc0oTOadPaFR6-Uv5VUVmRjRQeT1CjGGxAFzyNck" width="100" height="100" /> Hi, I'm Adnaan Buksh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">🔥
+# <img src="https://media.licdn.com/dms/image/v2/D5603AQGCTxKSw-NiDA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731330685891?e=1744243200&v=beta&t=8rsjc0oTOadPaFR6-Uv5VUVmRjRQeT1CjGGxAFzyNck" width="100" height="100" /> Hi, I'm Adnaan Buksh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30">
 
 
 
@@ -52,7 +52,7 @@
 
 ---
 
-***💡 Featured Projects***
+***<img src="https://media0.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif?cid=6c09b952111xv0yu98f5mapfn2defbmr0o0wivwmr3uhcowl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Featured Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🔹 [**E-paper Portable Digital Watch**](https://adnaanbuksh.netlify.app/#projects) – Compact and energy-efficient digital watch using e-paper technology.  
@@ -78,7 +78,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buksh-head)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adubuksh@gmail.com)
 
-🔥 **"Always learning, always building, always securing."** 🔥
+<img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30"> **"Always learning, always building, always securing."** <img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30">
 
 
 
