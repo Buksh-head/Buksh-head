@@ -62,13 +62,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![Adnaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buksh-head&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buksh-head&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -85,6 +78,14 @@
 
 
 <!--## Hi there 👋
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Adnaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buksh-head&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buksh-head&layout=compact&theme=tokyonight)
+
+---
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=buksh-head&theme=nord&column=7)](https://github.com/kumawatlalit912/github-profile-trophy)
 
