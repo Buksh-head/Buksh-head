@@ -1,9 +1,6 @@
-#  
 # Hi, I'm Adnaan Buksh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30">
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=adnaanbuksh&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=adnaanbuksh&color=yellow&style=for-the-badge)
 
 ## ***<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> About Me***
 
@@ -67,9 +64,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnaanbuksh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adubuksh@gmail.com)
 
-<img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30"> **"Always learning, always building, always securing."** <img src="https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif" width="30">
-
-
 
 
 
@@ -84,10 +78,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buksh-head&layout=compact&theme=tokyonight)
 
 ---
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=buksh-head&theme=nord&column=7)](https://github.com/kumawatlalit912/github-profile-trophy)
-
-**Buksh-head/Buksh-head** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
